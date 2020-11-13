@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamed14522295" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed14522295?logo=twitter&style=for-the-badge" alt="mohamed14522295" /></a> </p>
 
+## Talking about Personal Stuff:
 - 🔭 I’m currently working as as Andorid Developer [@Identity-solutions](https://www.linkedin.com/company/identity-solutions-org/)
 
 - 💬 Ask me about **Android development, Kotlin, Java**
