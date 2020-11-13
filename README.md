@@ -26,5 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedharmoush&show_icons=true&locale=en&layout=compact" alt="mohamedharmoush" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedharmoush&show_icons=true&locale=en" alt="mohamedharmoush" /></p>
-<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=mohamedharmoush&show_icons=true&locale=en" alt="mohamedharmoush" /></p>
  
