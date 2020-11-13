@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamed14522295" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed14522295?logo=twitter&style=for-the-badge" alt="mohamed14522295" /></a> </p>
 
+
 ## Talking about Personal Stuff:
 - 🔭 I’m currently working as as Andorid Developer [@Identity-solutions](https://www.linkedin.com/company/identity-solutions-org/)
 
@@ -25,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedharmoush&show_icons=true&locale=en&layout=compact" alt="mohamedharmoush" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedharmoush&show_icons=true&locale=en" alt="mohamedharmoush" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=mohamedharmoush&show_icons=true&locale=en" alt="mohamedharmoush" /></p>
+ 
