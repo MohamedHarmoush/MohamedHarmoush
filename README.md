@@ -7,7 +7,7 @@
 
 
 ## Talking about Personal Stuff:
-- 🔭 I’m currently working as as Andorid Developer [@EME International](http://www.emeint.net/)
+- 🔭 I’m currently working as as Andorid Developer [@Check24](https://www.linkedin.com/company/check24-vergleichsportal-gmbh/mycompany/)
 - 💬 Ask me about **Android development, Kotlin, Java and C#**
 - 📫 How to reach me **[linkedIn](https://www.linkedin.com/in/mohamedharmoush/)**
 
